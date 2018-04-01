@@ -1,0 +1,11 @@
+.top-bar{
+    height: 60px;
+    background-color: #acc324;
+}
+
+.top-bar-icons{
+    float: right;
+    padding: 12px;
+    position: relative;
+}
+

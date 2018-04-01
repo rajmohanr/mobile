@@ -1,0 +1,19 @@
+.top-bar{
+    height: 60px;
+    background-color: #acc324;
+}
+
+.search-icon{
+
+}
+
+.user-icon{
+
+}
+
+.cart-icon{
+    background-image: url("images/cart.png");
+    width: 25px;
+    height: 25px;
+}
+
