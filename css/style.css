@@ -163,10 +163,24 @@
 #best-arrival .inner-section{
     background-color: #fff;
     margin: 0 auto;
+    padding:30px;
 }
 
 #best-arrival .inner-section h2{
     display: inline-block;
+    font-size: 24px;
+}
+
+.checked {
+    color: orange;
+}
+
+.rating-section{
+    float: right;
+    width: 78%;
+    position: absolute;
+    bottom: 40px;
+    left: 90px;
 }
 
 @media (min-width: 768px){
