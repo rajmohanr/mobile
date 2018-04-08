@@ -166,6 +166,21 @@
     padding:30px;
 }
 
+#user-review .inner-section{
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+#user-review .inner-section img{
+    margin: 20px;
+}
+#user-review .inner-section p{
+    float: right;
+    width: 68%;
+    text-align: left!important;
+    margin-top: 40px;
+}
+
 #best-arrival .inner-section h2{
     display: inline-block;
     font-size: 24px;
@@ -182,6 +197,7 @@
     bottom: 40px;
     left: 90px;
 }
+
 
 @media (min-width: 768px){
     .inner-section {
